@@ -1,4 +1,4 @@
-# tdwi2025
+# TDWI 2025 - Hands-On RAG workshop
 
 Repository für meinen Hands-On RAG workshop während TDWI konferenz 2025. In diesem Workshop setzen wir eine funktionierende RAG-Pipeline um – vom Laden der Daten, Cleansing, Chunking, Indexierung über die Retrieval-Logik bis zur Evaluierung.
 
