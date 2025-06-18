@@ -3,13 +3,21 @@
 Repository für meinen Hands-On RAG workshop während TDWI Konferenz 2025:💻 **Codieren statt Folieren!**
 
 Lust auf einen Hands-On-Workshop zu Retrieval-Augmented Generation auf der TDWI 2025 (München, 24.–26. Juni)?
+
 Was dich in meinem Beispiel-Notebook erwartet:
+
 🧹Daten laden & reinigen – denn ohne Qualität läuft mal wieder nix
+
 ✂️Chunking – den Elefanten in Scheiben schneiden
+
 🧮Embedding – die Welt in Vektoren gießen
+
 🗄️Vector Store – Mathe statt Magie rund um FAISS, DuckDB, PostgreSQL
+
 🌀Prompt pimpen – Quellen smart einbauen
+
 🪄Chat GPTiert – Kontext drin, Halluzinationen draußen!?
+
 
 Ziel ist es, ein Verständnis dafür zu entwickeln, wie sich Large Language Models mit externem Wissen kombinieren lassen, und wie man eine solche Architektur aufbaut, anpasst und sinnvoll einsetzt.
 
