@@ -15,3 +15,5 @@ scikit-learn
 tqdm
 transformers
 jupyterlab
+lxml
+matplotlib
