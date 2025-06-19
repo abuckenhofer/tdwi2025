@@ -17,3 +17,6 @@ transformers
 jupyterlab
 lxml
 matplotlib
+duckdb
+faiss-cpu
+google-generativeai
