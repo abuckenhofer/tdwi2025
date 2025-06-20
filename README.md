@@ -1,5 +1,5 @@
 # TDWI 2025 - Hands-On RAG workshop
-
+(Achtung: work in progress)
 Repository für meinen Hands-On RAG workshop während TDWI Konferenz 2025:💻 **Codieren statt Folieren!**
 
 Lust auf einen Hands-On-Workshop zu Retrieval-Augmented Generation auf der TDWI 2025 (München, 24.–26. Juni)?
@@ -18,7 +18,8 @@ Ziel ist es, ein Verständnis dafür zu entwickeln, wie sich Large Language Mode
 Voraussetzungen
 - Python-Kenntnisse
 - Google Colab (frei verfügbare Notebook Umgebung https://colab.research.google.com/)
-- Optional OpenAI- und/oder HuggingFace-Account 
+- HuggingFace-Account https://huggingface.co/ und LLM wie Gemini https://aistudio.google.com/apikey (jeweils ohne Kosten)
+- Optional OpenAI-Account (API Guthaben notwendig, kostenpflichtig)
 
 Zusätzliche Voraussetzungen bei lokaler Ausführung
 - Python ≥ 3.12
