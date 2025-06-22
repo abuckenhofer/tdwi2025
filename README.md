@@ -22,7 +22,7 @@ Voraussetzungen
 - Optional OpenAI-Account (API Guthaben notwendig, kostenpflichtig)
 
 Zusätzliche Voraussetzungen bei lokaler Ausführung
-- Python ≥ 3.12
+- Python ≥ 3.11
 - Erste Schritte mit Jupyter Notebooks
 - pip install -r requirements.txt für die lokale Python Umgebung
 - Falls PostgreSQL pgvector genutzt werden soll: lokale Docker/podman Installation
