@@ -1,5 +1,4 @@
 # TDWI 2025 - Hands-On RAG workshop
-(Achtung: work in progress)
 Repository für meinen Hands-On RAG workshop während TDWI Konferenz 2025:💻 **Codieren statt Folieren!**
 
 Lust auf einen Hands-On-Workshop zu Retrieval-Augmented Generation auf der TDWI 2025 (München, 24.–26. Juni)?
@@ -31,6 +30,8 @@ Zusätzliche Voraussetzungen bei lokaler Ausführung
 - pip install -r requirements.txt für die lokale Python Umgebung oder zumindest jupyter notebook installieren, da requirements.txt aus dem Notebook geladen und installiert wird
 - .env anlegen mit den im obigen Screenshot aufgeführten Schlüsseln (Secrets)
 - Falls PostgreSQL pgvector genutzt werden soll: lokale Docker/podman Installation
+
+Siehe auch Blog Artikel [From Raw Text to Ready Answers — A Technical Deep-Dive into Retrieval-Augmented Generation (RAG)](https://buckenhofer.com/2025/06/from-raw-text-to-ready-answers-a-technical-deep-dive-into-retrieval-augmented-generation-rag/).
 
 ![image](https://github.com/user-attachments/assets/995e8b98-6dfa-4639-ad31-d94e918b35f4)
 
